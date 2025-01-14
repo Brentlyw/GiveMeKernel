@@ -1,5 +1,5 @@
 # GiveMeKernel
-This repository contains a condensed and optimized proof-of-concept (PoC) exploit for **CVE-2024-35250**. The code is a streamlined version of Varwara's original PoC, refactored for efficiency, reduced verbosity, and improved maintainability. This optimized version removes unnecessary debug print statements and redundant code blocks while preserving the core exploit functionality.
+This repository contains a condensed and optimized proof-of-concept (PoC) exploit for **CVE-2024-35250**. The code is based on Varwara's original release PoC.
 
 > **Disclaimer:**  
 > This PoC is for educational and research purposes only. Use it responsibly and only on systems you own or have explicit permission to test. The author is not responsible for any misuse or damage caused by this code.
