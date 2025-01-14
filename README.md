@@ -9,9 +9,6 @@ This repository contains a condensed and optimized proof-of-concept (PoC) exploi
 - **Code Condensation:**  
   The code has been refactored to reduce redundancy by combining similar conditional branches and removing repetitive sections.
 
-- **Removed Debug Output:**  
-  All `printf` statements have been removed to reduce noise and improve execution efficiency -- 
-
 - **Type and Function Adjustments:**  
   - Corrected type mismatches, especially in string comparisons (e.g., switching from wide-character to ANSI strings in process enumeration).
   - Maintained core functionality with standard Windows API calls and ensured compatibility across various Windows versions.
